@@ -3,7 +3,6 @@ import streamlit.components.v1 as stc
 import pickle
 import numpy as np
 from PIL import Image 
-import pandas as pd
 
 
 """ def load_model():
