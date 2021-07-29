@@ -4,7 +4,6 @@ import pickle
 import numpy as np
 from PIL import Image 
 
-
 """ def load_model():
     with open('', rb) as file:
         data=pickle.load(file)
